@@ -1,0 +1,17 @@
+{
+  "name": "automacao_cypress",
+  "version": "1.0.0",
+  "description": "Teste Login",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Douglas",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
